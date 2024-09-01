@@ -3,6 +3,9 @@ title: "Importing data into R"
 author: "Han Olff"
 format: html
 date: "2024-08-31"
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
 # Importing data in R

@@ -3,6 +3,9 @@ title: "Savannna food web diagram with Mermaid"
 format:   
   html:
     mermaid: {}
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
 Quarto has a native embedding of Mermaid diagrams. This allows to create flow charts such as a foodweb. For this to work the output format needs to be set to html.
