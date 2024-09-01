@@ -1,4 +1,16 @@
+---
+title: "Using the renv library for making R predictable"
+author: "Han Olff"
+format: html
+date: "2024-09-02"
+editor: 
+  markdown: 
+    wrap: 72
+---
 # Running a python code
+
+Quarto scripts can handle code blocks not only of R but also of phython. The code block below is an example of a python code block. Running python requires the import of the appropriate libraries. In this case, the matplotlib library is imported to create a simple line plot.
+
 
 ```{python}
 # Import the matplotlib library
