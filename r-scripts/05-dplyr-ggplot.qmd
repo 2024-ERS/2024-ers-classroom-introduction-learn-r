@@ -10,7 +10,8 @@ editor:
 
 # Working with the dplyr and ggplot2 packages, and the pipe operator |>
 
-Load the required libraries:
+Load the required libraries: 
+Do this by loading tidyverse, which loads a group of related packages, including readr, dplyr and ggplot2
 
 ```{r message = FALSE, warning = FALSE}
 # clear the R environment
