@@ -1,3 +1,4 @@
+# script name: 06-relational-database-joins.R
 # Combine cockle data with elevation data using a relational database approach 
 # Schiermonnikoog transect
 
