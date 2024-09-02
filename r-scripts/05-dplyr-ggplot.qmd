@@ -1,6 +1,6 @@
 ---
 title: "Starting with with the dplyr, ggplot2 packages, and the pipe operator |>"
-author: "Your Name"
+author: "Han Olff"
 date: "2024-09-02"
 format: html
 editor: 
